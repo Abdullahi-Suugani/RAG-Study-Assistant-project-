@@ -1,0 +1,13 @@
+# Introduction to Computer Networks
+
+A computer network is a group of interconnected computers and devices that communicate and share resources.
+
+A Local Area Network (LAN) connects devices within a limited geographical area, such as a home, school, or office.
+
+A Wide Area Network (WAN) connects devices or networks across large geographical areas. The internet is a well-known example.
+
+A router forwards data packets between different networks. A switch connects devices within a local network.
+
+The Transmission Control Protocol (TCP) helps provide reliable data delivery. The Internet Protocol (IP) addresses devices and helps route packets to their destinations.
+
+Network protocols define rules that devices follow when communicating.
